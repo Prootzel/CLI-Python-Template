@@ -7,7 +7,7 @@ This is a template made in Python 3.13. It is supposed to aid in gettings basic 
 
 First, download the repository. You can do so with the following command if you have git installed. If not, just use the download button in the top right corner and extract the zip file.
 
-```git clone TODO: Insert URL```
+```git clone https://github.com/Prootzel/CLI-Python-Template```
 
 Make sure you have python installed. If so, create a virtual environment. Use a folder name you can remember for it.
 
