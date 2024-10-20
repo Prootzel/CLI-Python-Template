@@ -1,0 +1,10 @@
+Send a POST request to a server.
+
+Required arguments:
+    [target]    URL/IP to send the request to.
+    [data]      What to post, in a json-like format.
+
+Examples:
+    POST www.google.com/ {"somedata" : "1"}
+    POST google.com {"owo" : "uwu", "uwu" : "owo"}
+    POST 127.0.0.1 {"somedata223" : {"a" : "b", "b" : "c"}}

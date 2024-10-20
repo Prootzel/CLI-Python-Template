@@ -1,0 +1,9 @@
+Send a GET request to a server.
+
+Required arguments:
+    [target]   URL/IP to send the request to.
+
+Examples:
+    GET www.google.com/
+    GET google.com
+    GET 127.0.0.1

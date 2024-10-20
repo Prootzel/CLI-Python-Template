@@ -1,0 +1,9 @@
+Prints info from folder src/static/help
+
+Optional arguments:
+    [command]   Print long help text to a specific command
+
+Examples:
+    help
+    help help
+    help exit

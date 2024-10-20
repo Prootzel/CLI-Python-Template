@@ -1,0 +1,4 @@
+Clears the console.
+
+Alternatives:
+    clear

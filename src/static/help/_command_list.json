@@ -1,0 +1,9 @@
+{
+    "help" : "Prints help text; type help [command] for more info about a specific command",
+    "exit" : "Exits the CLI program",
+    "cls" : "Clears the CLI, alternative: clear",
+    "clear" : "Clears the CLI, alternative: cls",
+    "reload" : "Reload modules",
+    "get" : "HTTP GET request",
+    "post" : "HTTP POST request"
+}
